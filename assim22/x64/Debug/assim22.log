@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(32,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(33,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(389,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(466,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(470,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(474,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\assim22\main.cpp(478,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  assim22.vcxproj -> C:\Users\rahaf\OneDrive\سطح المكتب\level 6\computer graphics(A)\New folder\assim22\x64\Debug\assim22.exe
